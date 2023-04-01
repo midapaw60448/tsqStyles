@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+.mp24bold {
+    font-size: 24px !important;
+    text-align: left;
+    font-family: interstate, sans-serif !important;
+    font-weight: 700 !important;
+}
+
+.mp32bold {
+    font-size: 32px !important;
+    text-align: left;
+    font-family: interstate, sans-serif !important;
+    font-weight: 700 !important;
+}
+.mp48bold {
+    font-size: 48px !important;
+    text-align: left;
+    font-family: interstate, sans-serif !important;
+    font-weight: 700 !important;
+}
